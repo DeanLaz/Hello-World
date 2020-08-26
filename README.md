@@ -1,2 +1,2 @@
 # Hello-World
-Dean's Hello-World Repository
+Deans Hello-World Repository
